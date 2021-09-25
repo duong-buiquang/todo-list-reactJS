@@ -1,8 +1,6 @@
 .center-content {
   display: flex;
-    justify-content: space-around;
-    height: 100%;
-    align-items: flex-start;
+  justify-content: space-around;
+  align-items: flex-start;
+  height: 710px;
 }
-
-

@@ -31,7 +31,7 @@ export default function AddWork() {
     setWork("");
   };
   return (
-    <Card sx={{ maxWidth: 300 }}>
+    <Card sx={{ maxWidth: 300, height: "100%" }}>
       <CardContent>
         <div className="crud">
           <Typography
