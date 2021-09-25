@@ -1,0 +1,22 @@
+.main {
+  background-color: #FEFEFE;
+  width: 90vw;
+  height: 80vh;
+  margin: auto;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: row;
+}
+
+.icon {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: center;
+  opacity: 0.5;
+}
+
+.selected {
+  opacity: 1;
+  border-right:2px solid #008000b3
+}
